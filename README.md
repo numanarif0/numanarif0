@@ -16,9 +16,8 @@ Reinforcement Learning · Generative AI · Full-Stack Geliştirme · Sistem Prog
 
 ## Hakkımda
 
-Sistem programlamasından yapay zekaya uzanan geniş bir alanda projeler geliştiren bir Yazılım Mühendisliği öğrencisiyim. Şu an çalışmalarımı **pekiştirmeli öğrenme** ve **web uygulamaları** üzerine yoğunlaştırıyorum.
-
-İlgi alanlarım: Reinforcement Learning, Generative AI, Full-Stack Geliştirme ve Sistem Programlama.
+Yazılım Mühendisliği öğrencisiyim. C++/STM32 ile gömülü tarafta, Python ile derin öğrenme tarafında projeler geliştirdim; şimdi pekiştirmeli öğrenme ve web uygulamaları üzerine yoğunlaşıyorum.
+İlgi alanlarım: Reinforcement Learning, Generative AI, Full-Stack ve Sistem Programlama.
 
 ---
 
