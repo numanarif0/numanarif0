@@ -3,7 +3,7 @@
 # Numan Arif Deniz
 **Software Engineering Student**
 
-Reinforcement Learning · Generative AI · Full-Stack Development · Systems Programming
+Machine Learning · Generative AI · Full-Stack Development · Systems Programming
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-numanarifdeniz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/numanarifdeniz)
 [![GitHub](https://img.shields.io/badge/GitHub-numanarif0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/numanarif0)
@@ -15,9 +15,9 @@ Reinforcement Learning · Generative AI · Full-Stack Development · Systems Pro
 
 ## About Me
 
-I am a Software Engineering student with hands-on experience in embedded systems development using C++/STM32, and deep learning projects with Python. I am currently focusing on Reinforcement Learning and full-stack web application development.
+I am a Software Engineering student with hands-on experience in embedded systems development using C++/STM32, and deep learning projects with Python. I am currently focusing on Machine Learning and full-stack web application development.
 
-**Interests:** Reinforcement Learning · Generative AI · Full-Stack Development · Systems Programming
+**Interests:** Machine Learning · Generative AI · Full-Stack Development · Systems Programming
 
 ---
 
